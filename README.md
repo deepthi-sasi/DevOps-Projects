@@ -11,5 +11,5 @@ This project is the entry point to access all demo projects with README notes fo
 * [Containers (Docker)](https://github.com/deepthi-sasi/docker-js-app)
 * [Build Automation with Jenkins (CI/CD)](https://github.com/deepthi-sasi/Jenkins-CI-CD-projects.git)
 * [Jenkins Shared Library](https://github.com/deepthi-sasi/jenkins-shared-library)
-* AWS Services 
-
+* [AWS Services](https://github.com/deepthi-sasi/AWS-Services)
+* [Container Orchestration with Kubernetes](https://github.com/deepthi-sasi/Kubernetes-projects)
