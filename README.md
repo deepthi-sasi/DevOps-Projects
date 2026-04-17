@@ -13,4 +13,4 @@ This project is the entry point to access all demo projects with README notes fo
 * [Jenkins Shared Library](https://github.com/deepthi-sasi/jenkins-shared-library)
 * [AWS Services](https://github.com/deepthi-sasi/AWS-Services)
 * [Container Orchestration with Kubernetes](https://github.com/deepthi-sasi/Kubernetes-projects)
-* Kubernetes on AWS - EKS 
+* [Kubernetes on AWS - EKS](https://github.com/deepthi-sasi/Kubernetes-on-AWS-EKS) 
